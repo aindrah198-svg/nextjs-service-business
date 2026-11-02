@@ -1,0 +1,62 @@
+[
+  {
+    "mode": "baseline",
+    "run": 1,
+    "performance": 75,
+    "accessibility": 96,
+    "seo": 66,
+    "lcp": 7520,
+    "cls": 0,
+    "bytes": 1327815
+  },
+  {
+    "mode": "baseline",
+    "run": 2,
+    "performance": 75,
+    "accessibility": 96,
+    "seo": 66,
+    "lcp": 7663,
+    "cls": 0,
+    "bytes": 1327815
+  },
+  {
+    "mode": "baseline",
+    "run": 3,
+    "performance": 75,
+    "accessibility": 96,
+    "seo": 66,
+    "lcp": 7661,
+    "cls": 0,
+    "bytes": 1327815
+  },
+  {
+    "mode": "optimized",
+    "run": 1,
+    "performance": 100,
+    "accessibility": 96,
+    "seo": 100,
+    "lcp": 1586,
+    "cls": 0,
+    "bytes": 181922
+  },
+  {
+    "mode": "optimized",
+    "run": 2,
+    "performance": 100,
+    "accessibility": 96,
+    "seo": 100,
+    "lcp": 1551,
+    "cls": 0,
+    "bytes": 181922
+  },
+  {
+    "mode": "optimized",
+    "run": 3,
+    "performance": 99,
+    "accessibility": 96,
+    "seo": 100,
+    "lcp": 1961,
+    "cls": 0,
+    "bytes": 181922
+  }
+]
